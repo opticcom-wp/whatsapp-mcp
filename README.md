@@ -1,4 +1,4 @@
-# whatsapp-mcp
+k# whatsapp-mcp
 
 An MCP (Model Context Protocol) server that connects Claude to WhatsApp. Read messages, search conversations, get group stats, and send messages — all through Claude Code or any MCP client.
 
